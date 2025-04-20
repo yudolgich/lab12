@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CelestialLibrary.CelestialBody">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="CelestialLibrary.CelestialBody.IdNumber" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CelestialBody.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAKAAAACCCAAAQEgAAAAAQAAAAEAAAAAAACABCAABA=</HashCode>
+      <FileName>CelestialBody.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CelestialLibrary.DoublyLinkedList&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAICAAAAABAAAAAAICQQAIAAAAAEAAAAAQBAAAA=</HashCode>
+      <FileName>DoublyLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CelestialLibrary.GasGiant">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABACAAAAEgAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>GasGiant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CelestialLibrary.Planet">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAEgAAAQAAAAAAEABAAAAACAAAAAAA=</HashCode>
+      <FileName>Planet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CelestialLibrary.Point&lt;T&gt;">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAAAAAAAAAAAFAAAAAAAAAAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CelestialLibrary.Star">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgAAAAAAAAAAEAAAAAAACAAAEAAA=</HashCode>
+      <FileName>Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CelestialLibrary.IInit">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IInit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
